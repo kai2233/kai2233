@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaifeng Yu</h1>
-<h3 align="center">I am a full stack developer with experience in React and Node.js. Looking forward to gain new knowledge and experience. Currently trying to create a mobile app</h3>
+<h3 align="center">I am a full stack developer with experience in React and Node.js. Looking forward to gain more knowledge and experience. Currently trying to create a mobile app</h3>
 
 - 📫 How to reach me **kaifeng.yu02@gmai.com**
 
